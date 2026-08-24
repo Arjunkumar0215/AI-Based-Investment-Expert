@@ -1,4 +1,4 @@
-# AI-Based-Investment-Expert
+# Rule Based-Investment-Expert
 🚀 **Built My Own AI-Based Investment Expert 💼📊**
 
 I’m excited to share one of my latest projects — a **Rule-Based Investment Expert System** designed to recommend a portfolio allocation based on factors like **age, investment horizon, and risk tolerance**.
